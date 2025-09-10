@@ -1,2 +1,3 @@
 # My-first-Project
-This is my first project
+This is my first project :D
+Author : Vedananda
